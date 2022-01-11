@@ -1,0 +1,25 @@
+body{
+  font-family: arial; 
+}
+p {
+  font-size: 20px;
+}
+
+.filmesdehoje{
+  color: darkred;
+}
+.filmesdeamanha{
+  color: darkblue;
+}
+
+.underline{
+  text-decoration: none;
+}
+
+.tituloh2{
+  color: seagreen;
+}
+
+p{
+  font-size: 20px;
+}
